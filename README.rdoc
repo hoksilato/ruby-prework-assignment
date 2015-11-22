@@ -6,7 +6,7 @@ Submitted by: Cang Ta
 
 Time spent: 10 hours spent in total
 
-URL: fierce-everglades-1023.herokuapp.com
+URL: http://fierce-everglades-1023.herokuapp.com
 
 ## User Stories
 
