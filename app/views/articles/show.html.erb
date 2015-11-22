@@ -7,7 +7,7 @@
 
 <p>
   <strong>Body:</strong>
-  <%= @article.body %>
+  <%= @markdown.render(@article.body).html_safe %>
 </p>
 
 <h2>Comments</h2>
